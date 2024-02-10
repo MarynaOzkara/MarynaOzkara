@@ -2,11 +2,10 @@
 
 ## About Me:
 
-I'm a passionate of programming, enjoy working with code and have desire to learn and grow to strong IT - spesialist. I have completed Full Stack Developer course.
+I'm a passionate of programming, enjoy working with code and have desire to learn and grow up to strong IT-spesialist. I have completed Full Stack Developer course.
 
 I have actively participated in group projects focused on the creation of web applications, as well as individual website development, with technologies such as:
 
-```HTML5```, ```CSS3```, ```JS```, ```REACT```, ```NODE.JS```
 
 ## Technologies and tools I work with:
 
@@ -16,7 +15,7 @@ I have actively participated in group projects focused on the creation of web ap
 
 ## Open to Opportunities
 
-I'm always open to new projects and collaborations. If you have an offer for cooperation, contact me!
+I always open to new projects and collaborations. If you have an offer for cooperation, contact me!
 
 ## Contact me
 
