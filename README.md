@@ -2,7 +2,7 @@
 
 ## About Me:
 
-I'm a passionate for programming, enjoy working with code and have desire to learn and grow to strong IT - spesialist. I have completed Full Stack Developer course.
+I'm a passionate of programming, enjoy working with code and have desire to learn and grow to strong IT - spesialist. I have completed Full Stack Developer course.
 
 I have actively participated in group projects focused on the creation of web applications, as well as individual website development, with technologies such as:
 
